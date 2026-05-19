@@ -6,7 +6,7 @@ A TCP socket-based quiz server that tests clients on Unix/Linux programming conc
 A TCP socket-based quiz server that tests clients on Unix/Linux programming concepts. The server randomly selects 5 questions from a database of 43, evaluates answers, and provides a final score.
 
 ## 👤 Author
-**Tirenioluwa Aruwajoye** (24388243)
+**Me** 
 
 ## 📋 Features
 
